@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EIU\\CSE306\\Lab1\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC18CE0-5632-4B2E-98A5-3E60DD016F24}|ChatApp\\Assigment 1.csproj|e:\\eiu\\cse306\\lab1\\chatapp\\chatapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DC18CE0-5632-4B2E-98A5-3E60DD016F24}|ChatApp\\Assigment 1.csproj|solutionrelative:chatapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC18CE0-5632-4B2E-98A5-3E60DD016F24}|ChatApp\\ChatApp.csproj|E:\\EIU\\CSE306\\Lab1\\ChatApp\\chatapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC18CE0-5632-4B2E-98A5-3E60DD016F24}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC18CE0-5632-4B2E-98A5-3E60DD016F24}|ChatApp\\ChatApp.csproj|E:\\EIU\\CSE306\\Lab1\\ChatApp\\chatapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC18CE0-5632-4B2E-98A5-3E60DD016F24}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE306\\Lab1\\ChatApp\\ChatApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Form1.cs",
+              "ToolTip": "E:\\EIU\\CSE306\\Lab1\\ChatApp\\ChatApp\\Form1.cs",
+              "RelativeToolTip": "ChatApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:22:02.587Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE306\\Lab1\\ChatApp\\ChatApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Form1.Designer.cs",
+              "ToolTip": "E:\\EIU\\CSE306\\Lab1\\ChatApp\\ChatApp\\Form1.Designer.cs",
+              "RelativeToolTip": "ChatApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAswGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:16:21.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\EIU\\CSE306\\Lab1\\ChatApp\\ChatApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Form1.cs",
+              "ToolTip": "E:\\EIU\\CSE306\\Lab1\\ChatApp\\ChatApp\\Form1.cs [Design]",
+              "RelativeToolTip": "ChatApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:55:19.888Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

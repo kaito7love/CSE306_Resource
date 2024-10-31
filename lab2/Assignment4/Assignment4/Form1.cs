@@ -24,7 +24,7 @@ namespace Assignment4
         String destinationDirectory = "./Images/";
         private void btnUpload_click(object sender, EventArgs e)
         {
-            openFileDialog1.Filter = "Image Files(*.png)|*.png|All files (*.*)|*.*";
+            openFileDialog1.Filter = "Image Files(*.png,*.jpg)|*.png;*.jpg|All files (*.*)|*.*";
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 string[] filePath = openFileDialog1.FileNames;
@@ -58,8 +58,8 @@ namespace Assignment4
             {
                 lbUploaded.Items.Add("Uploading " + fileName);
             };
-            lbUploaded.Invoke( _uploading );
-            
+            lbUploaded.Invoke(_uploading);
+
             // Cập nhật Đã uploaded xong
             Action _act = delegate
             {

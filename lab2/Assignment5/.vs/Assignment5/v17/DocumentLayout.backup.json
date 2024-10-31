@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "E:\\EIU\\CSE306\\lab2\\Assignment5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{622D7369-12A7-421B-A14B-66993590A19A}|Assignment5\\Assignment5.csproj|e:\\eiu\\cse306\\lab2\\assignment5\\assignment5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{622D7369-12A7-421B-A14B-66993590A19A}|Assignment5\\Assignment5.csproj|e:\\eiu\\cse306\\lab2\\assignment5\\assignment5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622D7369-12A7-421B-A14B-66993590A19A}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622D7369-12A7-421B-A14B-66993590A19A}|Assignment5\\Assignment5.csproj|E:\\EIU\\CSE306\\lab2\\Assignment5\\assignment5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{622D7369-12A7-421B-A14B-66993590A19A}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622D7369-12A7-421B-A14B-66993590A19A}|Assignment5\\Assignment5.csproj|E:\\EIU\\CSE306\\lab2\\Assignment5\\assignment5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622D7369-12A7-421B-A14B-66993590A19A}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622D7369-12A7-421B-A14B-66993590A19A}|Assignment5\\Assignment5.csproj|E:\\EIU\\CSE306\\lab2\\Assignment5\\assignment5\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622D7369-12A7-421B-A14B-66993590A19A}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622D7369-12A7-421B-A14B-66993590A19A}|Assignment5\\Assignment5.csproj|E:\\EIU\\CSE306\\lab2\\Assignment5\\assignment5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{622D7369-12A7-421B-A14B-66993590A19A}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622D7369-12A7-421B-A14B-66993590A19A}|Assignment5\\Assignment5.csproj|E:\\EIU\\CSE306\\lab2\\Assignment5\\assignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622D7369-12A7-421B-A14B-66993590A19A}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +39,74 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE306\\lab2\\Assignment5\\Assignment5\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Form1.cs",
+              "ToolTip": "E:\\EIU\\CSE306\\lab2\\Assignment5\\Assignment5\\Form1.cs",
+              "RelativeToolTip": "Assignment5\\Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:27:05.192Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE306\\lab2\\Assignment5\\Assignment5\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Form2.Designer.cs",
+              "ToolTip": "E:\\EIU\\CSE306\\lab2\\Assignment5\\Assignment5\\Form2.Designer.cs",
+              "RelativeToolTip": "Assignment5\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:58:36.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE306\\lab2\\Assignment5\\Assignment5\\Form2.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Form2.cs",
+              "ToolTip": "E:\\EIU\\CSE306\\lab2\\Assignment5\\Assignment5\\Form2.cs",
+              "RelativeToolTip": "Assignment5\\Form2.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:27:34.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\EIU\\CSE306\\lab2\\Assignment5\\Assignment5\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Program.cs",
+              "ToolTip": "E:\\EIU\\CSE306\\lab2\\Assignment5\\Assignment5\\Program.cs",
+              "RelativeToolTip": "Assignment5\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:22:52.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\EIU\\CSE306\\lab2\\Assignment5\\Assignment5\\Form2.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Form2.cs",
+              "ToolTip": "E:\\EIU\\CSE306\\lab2\\Assignment5\\Assignment5\\Form2.cs [Design]",
+              "RelativeToolTip": "Assignment5\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:14:57.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\EIU\\CSE306\\lab2\\Assignment5\\Assignment5\\Form1.cs",
               "RelativeDocumentMoniker": "Assignment5\\Form1.cs",
               "ToolTip": "E:\\EIU\\CSE306\\lab2\\Assignment5\\Assignment5\\Form1.cs [Design]",
               "RelativeToolTip": "Assignment5\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T17:02:58.494Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-19T17:02:58.494Z"
             }
           ]
         }

@@ -16,6 +16,11 @@ namespace Assignment5
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            // Create and show the second form (Form2) without blocking the main form
+            Form2 secondForm = new Form2();
+            secondForm.Show();
+
+            // Start the application message loop with the main form (Form1)
             Application.Run(new Form1());
         }
     }

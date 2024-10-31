@@ -1,0 +1,10 @@
+E:\EIU\CSE306\lab3\Assignment1\TCP_Client\TCP_Client\obj\Debug\TCP_Client.csproj.AssemblyReference.cache
+E:\EIU\CSE306\lab3\Assignment1\TCP_Client\TCP_Client\obj\Debug\TCP_Client.s.resources
+E:\EIU\CSE306\lab3\Assignment1\TCP_Client\TCP_Client\obj\Debug\TCP_Client.Properties.Resources.resources
+E:\EIU\CSE306\lab3\Assignment1\TCP_Client\TCP_Client\obj\Debug\TCP_Client.csproj.GenerateResource.cache
+E:\EIU\CSE306\lab3\Assignment1\TCP_Client\TCP_Client\obj\Debug\TCP_Client.csproj.CoreCompileInputs.cache
+E:\EIU\CSE306\lab3\Assignment1\TCP_Client\TCP_Client\bin\Debug\TCP_Client.exe.config
+E:\EIU\CSE306\lab3\Assignment1\TCP_Client\TCP_Client\bin\Debug\TCP_Client.exe
+E:\EIU\CSE306\lab3\Assignment1\TCP_Client\TCP_Client\bin\Debug\TCP_Client.pdb
+E:\EIU\CSE306\lab3\Assignment1\TCP_Client\TCP_Client\obj\Debug\TCP_Client.exe
+E:\EIU\CSE306\lab3\Assignment1\TCP_Client\TCP_Client\obj\Debug\TCP_Client.pdb

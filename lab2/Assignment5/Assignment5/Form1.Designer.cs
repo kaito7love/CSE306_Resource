@@ -29,15 +29,15 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtServerIP = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtPort = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtTextSend = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.txtContent = new System.Windows.Forms.TextBox();
+            this.btnConnect_Client = new System.Windows.Forms.Button();
+            this.btnSend_CLient = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -49,12 +49,13 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Server IP";
             // 
-            // textBox1
+            // txtServerIP
             // 
-            this.textBox1.Location = new System.Drawing.Point(12, 28);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(200, 22);
-            this.textBox1.TabIndex = 1;
+            this.txtServerIP.Location = new System.Drawing.Point(12, 28);
+            this.txtServerIP.Name = "txtServerIP";
+            this.txtServerIP.Size = new System.Drawing.Size(200, 22);
+            this.txtServerIP.TabIndex = 1;
+            this.txtServerIP.Text = "127.0.0.1";
             // 
             // label2
             // 
@@ -65,12 +66,13 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "Server Port";
             // 
-            // textBox2
+            // txtPort
             // 
-            this.textBox2.Location = new System.Drawing.Point(284, 28);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 22);
-            this.textBox2.TabIndex = 3;
+            this.txtPort.Location = new System.Drawing.Point(284, 28);
+            this.txtPort.Name = "txtPort";
+            this.txtPort.Size = new System.Drawing.Size(100, 22);
+            this.txtPort.TabIndex = 3;
+            this.txtPort.Text = "30000";
             // 
             // label3
             // 
@@ -81,13 +83,13 @@
             this.label3.TabIndex = 4;
             this.label3.Text = "Text";
             // 
-            // textBox3
+            // txtTextSend
             // 
-            this.textBox3.Location = new System.Drawing.Point(12, 99);
-            this.textBox3.Multiline = true;
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(446, 88);
-            this.textBox3.TabIndex = 5;
+            this.txtTextSend.Location = new System.Drawing.Point(12, 99);
+            this.txtTextSend.Multiline = true;
+            this.txtTextSend.Name = "txtTextSend";
+            this.txtTextSend.Size = new System.Drawing.Size(446, 88);
+            this.txtTextSend.TabIndex = 5;
             // 
             // label4
             // 
@@ -98,48 +100,51 @@
             this.label4.TabIndex = 6;
             this.label4.Text = "Content";
             // 
-            // textBox4
+            // txtContent
             // 
-            this.textBox4.Location = new System.Drawing.Point(12, 244);
-            this.textBox4.Multiline = true;
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(446, 175);
-            this.textBox4.TabIndex = 7;
+            this.txtContent.Location = new System.Drawing.Point(12, 244);
+            this.txtContent.Multiline = true;
+            this.txtContent.Name = "txtContent";
+            this.txtContent.Size = new System.Drawing.Size(446, 175);
+            this.txtContent.TabIndex = 7;
             // 
-            // button2
+            // btnConnect_Client
             // 
-            this.button2.Location = new System.Drawing.Point(479, 28);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 9;
-            this.button2.Text = "Connect";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnConnect_Client.Location = new System.Drawing.Point(479, 28);
+            this.btnConnect_Client.Name = "btnConnect_Client";
+            this.btnConnect_Client.Size = new System.Drawing.Size(75, 23);
+            this.btnConnect_Client.TabIndex = 9;
+            this.btnConnect_Client.Text = "Connect";
+            this.btnConnect_Client.UseVisualStyleBackColor = true;
+            this.btnConnect_Client.Click += new System.EventHandler(this.btnConnect_Client_Click);
             // 
-            // button3
+            // btnSend_CLient
             // 
-            this.button3.Location = new System.Drawing.Point(479, 99);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 10;
-            this.button3.Text = "Send";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnSend_CLient.Location = new System.Drawing.Point(479, 99);
+            this.btnSend_CLient.Name = "btnSend_CLient";
+            this.btnSend_CLient.Size = new System.Drawing.Size(75, 23);
+            this.btnSend_CLient.TabIndex = 10;
+            this.btnSend_CLient.Text = "Send";
+            this.btnSend_CLient.UseVisualStyleBackColor = true;
+            this.btnSend_CLient.Click += new System.EventHandler(this.btnSend_CLient_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(573, 450);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.textBox4);
+            this.Controls.Add(this.btnSend_CLient);
+            this.Controls.Add(this.btnConnect_Client);
+            this.Controls.Add(this.txtContent);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.txtTextSend);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.txtPort);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtServerIP);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TCP-Client Chat";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -149,15 +154,15 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtServerIP;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtPort;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtTextSend;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.TextBox txtContent;
+        private System.Windows.Forms.Button btnConnect_Client;
+        private System.Windows.Forms.Button btnSend_CLient;
     }
 }
 

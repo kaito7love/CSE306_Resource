@@ -49,16 +49,17 @@
             this.txtURL.Name = "txtURL";
             this.txtURL.Size = new System.Drawing.Size(311, 22);
             this.txtURL.TabIndex = 1;
+            this.txtURL.Text = "https://th.bing.com/th/id/OIP.SBxVGBsMbyytYHzFf5OiBAHaEo?rs=1&pid=ImgDetMain";
             // 
             // btnDownload
             // 
             this.btnDownload.Location = new System.Drawing.Point(126, 56);
             this.btnDownload.Name = "btnDownload";
-            this.btnDownload.Size = new System.Drawing.Size(82, 23);
+            this.btnDownload.Size = new System.Drawing.Size(94, 23);
             this.btnDownload.TabIndex = 2;
             this.btnDownload.Text = "Download";
             this.btnDownload.UseVisualStyleBackColor = true;
-            this.btnDownload.Click += new System.EventHandler(this.button1_Click);
+            this.btnDownload.Click += new System.EventHandler(this.btnDownload_click);
             // 
             // Form1
             // 

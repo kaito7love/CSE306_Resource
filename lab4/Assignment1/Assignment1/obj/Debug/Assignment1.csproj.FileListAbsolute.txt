@@ -1,0 +1,10 @@
+E:\EIU\CSE306\lab4\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+E:\EIU\CSE306\lab4\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+E:\EIU\CSE306\lab4\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+E:\EIU\CSE306\lab4\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+E:\EIU\CSE306\lab4\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+E:\EIU\CSE306\lab4\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+E:\EIU\CSE306\lab4\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+E:\EIU\CSE306\lab4\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+E:\EIU\CSE306\lab4\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+E:\EIU\CSE306\lab4\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

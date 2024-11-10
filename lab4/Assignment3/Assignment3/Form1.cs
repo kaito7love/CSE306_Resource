@@ -53,7 +53,7 @@ namespace Assignment3
                 if (di.IsReady == true)
                     node.Nodes.Add("...");
 
-                treeView.Nodes.Add(node);
+                treeView1.Nodes.Add(node);
             }
 
         }
@@ -122,31 +122,6 @@ namespace Assignment3
                     listBoxFolders.Items.Add(Path.GetFileName(fileName));
             }
             catch { }
-        }
-
-
-        private void listBoxFolders_MouseDoubleClick(object sender, MouseEventArgs e)
-        {
-            string s = listBoxFolders.SelectedItem.ToString();
-            if (listBoxFolders.Items.Count > 0)
-            {
-                string _path = txtPathClient.Text + "\\" + listBoxFolders.SelectedItem.ToString();
-                try
-                {
-                    listBoxFiles.Items.Clear();
-                    listBoxFolders.Items.Clear();
-                    string[] fileEntries = Directory.GetFiles(_path);
-
-                    foreach (string fileName in fileEntries)
-                        listBoxFiles.Items.Add(Path.GetFileName(fileName));
-
-                    fileEntries = Directory.GetDirectories(_path);
-                    foreach (string fileName in fileEntries)
-                        listBoxFolders.Items.Add(Path.GetFileName(fileName));
-                }
-                catch { }
-                txtPathClient.Text = _path;
-            }
         }
 
     }

@@ -39,25 +39,25 @@
             this.button1 = new System.Windows.Forms.Button();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.textBox6 = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.txtPathClient = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
-            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.txtStatus = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.textBox10 = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.button6 = new System.Windows.Forms.Button();
             this.label12 = new System.Windows.Forms.Label();
-            this.listBox1 = new System.Windows.Forms.ListBox();
-            this.listBox2 = new System.Windows.Forms.ListBox();
+            this.listBoxFiles = new System.Windows.Forms.ListBox();
+            this.listBoxFolders = new System.Windows.Forms.ListBox();
             this.listBox3 = new System.Windows.Forms.ListBox();
             this.listBox4 = new System.Windows.Forms.ListBox();
+            this.treeView1 = new System.Windows.Forms.TreeView();
             this.SuspendLayout();
             // 
             // label1
@@ -151,14 +151,6 @@
             this.label7.TabIndex = 20;
             this.label7.Text = "Folders";
             // 
-            // textBox6
-            // 
-            this.textBox6.Location = new System.Drawing.Point(19, 202);
-            this.textBox6.Multiline = true;
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(196, 304);
-            this.textBox6.TabIndex = 19;
-            // 
             // label6
             // 
             this.label6.AutoSize = true;
@@ -168,12 +160,12 @@
             this.label6.TabIndex = 18;
             this.label6.Text = "Tree View";
             // 
-            // textBox5
+            // txtPathClient
             // 
-            this.textBox5.Location = new System.Drawing.Point(88, 142);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(310, 22);
-            this.textBox5.TabIndex = 17;
+            this.txtPathClient.Location = new System.Drawing.Point(88, 142);
+            this.txtPathClient.Name = "txtPathClient";
+            this.txtPathClient.Size = new System.Drawing.Size(310, 22);
+            this.txtPathClient.TabIndex = 17;
             // 
             // label5
             // 
@@ -220,13 +212,13 @@
             this.button5.Text = "Rename";
             this.button5.UseVisualStyleBackColor = true;
             // 
-            // textBox9
+            // txtStatus
             // 
-            this.textBox9.Location = new System.Drawing.Point(579, 41);
-            this.textBox9.Multiline = true;
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(327, 82);
-            this.textBox9.TabIndex = 29;
+            this.txtStatus.Location = new System.Drawing.Point(579, 41);
+            this.txtStatus.Multiline = true;
+            this.txtStatus.Name = "txtStatus";
+            this.txtStatus.Size = new System.Drawing.Size(327, 82);
+            this.txtStatus.TabIndex = 29;
             // 
             // label9
             // 
@@ -280,23 +272,23 @@
             this.label12.TabIndex = 35;
             this.label12.Text = "Files";
             // 
-            // listBox1
+            // listBoxFiles
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 16;
-            this.listBox1.Location = new System.Drawing.Point(241, 202);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(157, 100);
-            this.listBox1.TabIndex = 36;
+            this.listBoxFiles.FormattingEnabled = true;
+            this.listBoxFiles.ItemHeight = 16;
+            this.listBoxFiles.Location = new System.Drawing.Point(241, 202);
+            this.listBoxFiles.Name = "listBoxFiles";
+            this.listBoxFiles.Size = new System.Drawing.Size(157, 100);
+            this.listBoxFiles.TabIndex = 36;
             // 
-            // listBox2
+            // listBoxFolders
             // 
-            this.listBox2.FormattingEnabled = true;
-            this.listBox2.ItemHeight = 16;
-            this.listBox2.Location = new System.Drawing.Point(241, 326);
-            this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(157, 180);
-            this.listBox2.TabIndex = 37;
+            this.listBoxFolders.FormattingEnabled = true;
+            this.listBoxFolders.ItemHeight = 16;
+            this.listBoxFolders.Location = new System.Drawing.Point(241, 326);
+            this.listBoxFolders.Name = "listBoxFolders";
+            this.listBoxFolders.Size = new System.Drawing.Size(157, 180);
+            this.listBoxFolders.TabIndex = 37;
             // 
             // listBox3
             // 
@@ -316,21 +308,29 @@
             this.listBox4.Size = new System.Drawing.Size(327, 180);
             this.listBox4.TabIndex = 39;
             // 
+            // treeView1
+            // 
+            this.treeView1.Location = new System.Drawing.Point(12, 198);
+            this.treeView1.Name = "treeView1";
+            this.treeView1.Size = new System.Drawing.Size(210, 297);
+            this.treeView1.TabIndex = 40;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(918, 507);
+            this.Controls.Add(this.treeView1);
             this.Controls.Add(this.listBox4);
             this.Controls.Add(this.listBox3);
-            this.Controls.Add(this.listBox2);
-            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.listBoxFolders);
+            this.Controls.Add(this.listBoxFiles);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.textBox10);
             this.Controls.Add(this.label10);
-            this.Controls.Add(this.textBox9);
+            this.Controls.Add(this.txtStatus);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
@@ -338,9 +338,8 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.textBox6);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.textBox5);
+            this.Controls.Add(this.txtPathClient);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox4);
@@ -372,25 +371,25 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox txtPathClient;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.TextBox textBox9;
+        private System.Windows.Forms.TextBox txtStatus;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.TextBox textBox10;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.ListBox listBox1;
-        private System.Windows.Forms.ListBox listBox2;
+        private System.Windows.Forms.ListBox listBoxFiles;
+        private System.Windows.Forms.ListBox listBoxFolders;
         private System.Windows.Forms.ListBox listBox3;
         private System.Windows.Forms.ListBox listBox4;
+        private System.Windows.Forms.TreeView treeView1;
     }
 }
 

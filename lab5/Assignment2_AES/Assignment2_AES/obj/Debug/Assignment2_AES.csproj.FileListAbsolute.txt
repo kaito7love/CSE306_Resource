@@ -1,0 +1,10 @@
+D:\Nam\CSE306_Resource\Assignment2_AES\Assignment2_AES\bin\Debug\Assignment2_AES.exe.config
+D:\Nam\CSE306_Resource\Assignment2_AES\Assignment2_AES\bin\Debug\Assignment2_AES.exe
+D:\Nam\CSE306_Resource\Assignment2_AES\Assignment2_AES\bin\Debug\Assignment2_AES.pdb
+D:\Nam\CSE306_Resource\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.csproj.AssemblyReference.cache
+D:\Nam\CSE306_Resource\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.Form1.resources
+D:\Nam\CSE306_Resource\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.Properties.Resources.resources
+D:\Nam\CSE306_Resource\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.csproj.GenerateResource.cache
+D:\Nam\CSE306_Resource\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.csproj.CoreCompileInputs.cache
+D:\Nam\CSE306_Resource\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.exe
+D:\Nam\CSE306_Resource\Assignment2_AES\Assignment2_AES\obj\Debug\Assignment2_AES.pdb

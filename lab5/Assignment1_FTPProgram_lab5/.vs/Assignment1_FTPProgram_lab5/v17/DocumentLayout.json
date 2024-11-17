@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam\\CSE306_Resource\\Assignment1_FTPProgram_lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2826538-EBB7-44A7-A515-123AA9010918}|Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5.csproj|d:\\nam\\cse306_resource\\assignment1_ftpprogram_lab5\\assignment1_ftpprogram_lab5\\rename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2826538-EBB7-44A7-A515-123AA9010918}|Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5.csproj|solutionrelative:assignment1_ftpprogram_lab5\\rename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2826538-EBB7-44A7-A515-123AA9010918}|Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5.csproj|d:\\nam\\cse306_resource\\assignment1_ftpprogram_lab5\\assignment1_ftpprogram_lab5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2826538-EBB7-44A7-A515-123AA9010918}|Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5.csproj|solutionrelative:assignment1_ftpprogram_lab5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2826538-EBB7-44A7-A515-123AA9010918}|Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5.csproj|d:\\nam\\cse306_resource\\assignment1_ftpprogram_lab5\\assignment1_ftpprogram_lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2826538-EBB7-44A7-A515-123AA9010918}|Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5.csproj|solutionrelative:assignment1_ftpprogram_lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2826538-EBB7-44A7-A515-123AA9010918}|Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5.csproj|d:\\nam\\cse306_resource\\assignment1_ftpprogram_lab5\\assignment1_ftpprogram_lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2826538-EBB7-44A7-A515-123AA9010918}|Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5.csproj|solutionrelative:assignment1_ftpprogram_lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2826538-EBB7-44A7-A515-123AA9010918}|Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5.csproj|d:\\nam\\cse306_resource\\assignment1_ftpprogram_lab5\\assignment1_ftpprogram_lab5\\rename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2826538-EBB7-44A7-A515-123AA9010918}|Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5.csproj|solutionrelative:assignment1_ftpprogram_lab5\\rename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rename.cs",
+              "DocumentMoniker": "D:\\Nam\\CSE306_Resource\\Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5\\Rename.cs",
+              "RelativeDocumentMoniker": "Assignment1_FTPProgram_lab5\\Rename.cs",
+              "ToolTip": "D:\\Nam\\CSE306_Resource\\Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5\\Rename.cs",
+              "RelativeToolTip": "Assignment1_FTPProgram_lab5\\Rename.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:21:54.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rename.cs [Design]",
+              "DocumentMoniker": "D:\\Nam\\CSE306_Resource\\Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5\\Rename.cs",
+              "RelativeDocumentMoniker": "Assignment1_FTPProgram_lab5\\Rename.cs",
+              "ToolTip": "D:\\Nam\\CSE306_Resource\\Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5\\Rename.cs [Design]",
+              "RelativeToolTip": "Assignment1_FTPProgram_lab5\\Rename.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:18:56.716Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Nam\\CSE306_Resource\\Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Assignment1_FTPProgram_lab5\\Form1.Designer.cs",
+              "ToolTip": "D:\\Nam\\CSE306_Resource\\Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5\\Form1.Designer.cs",
+              "RelativeToolTip": "Assignment1_FTPProgram_lab5\\Form1.Designer.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAowK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:18:14.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Nam\\CSE306_Resource\\Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment1_FTPProgram_lab5\\Form1.cs",
+              "ToolTip": "D:\\Nam\\CSE306_Resource\\Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5\\Form1.cs",
+              "RelativeToolTip": "Assignment1_FTPProgram_lab5\\Form1.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAIAwwKEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:18:01.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Nam\\CSE306_Resource\\Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment1_FTPProgram_lab5\\Form1.cs",
+              "ToolTip": "D:\\Nam\\CSE306_Resource\\Assignment1_FTPProgram_lab5\\Assignment1_FTPProgram_lab5\\Form1.cs [Design]",
+              "RelativeToolTip": "Assignment1_FTPProgram_lab5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:15:46.545Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -28,7 +28,7 @@ namespace Assignment2_AES
             using (AesCryptoServiceProvider aes = new AesCryptoServiceProvider())
             {
                 key = aes.Key;
-                iv = aes.IV;
+                iv = aes.IV;// vexter khoi tao
                 using (ICryptoTransform encryptor = aes.CreateEncryptor(key, iv))
                 using (MemoryStream ms = new MemoryStream())
                 using (CryptoStream cs = new CryptoStream(ms, encryptor, CryptoStreamMode.Write))

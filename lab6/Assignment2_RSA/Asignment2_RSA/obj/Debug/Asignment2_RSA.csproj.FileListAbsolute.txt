@@ -1,0 +1,10 @@
+D:\Nam\CSE306_Resource\lab6\Asignment2_RSA\Asignment2_RSA\bin\Debug\Asignment2_RSA.exe.config
+D:\Nam\CSE306_Resource\lab6\Asignment2_RSA\Asignment2_RSA\bin\Debug\Asignment2_RSA.exe
+D:\Nam\CSE306_Resource\lab6\Asignment2_RSA\Asignment2_RSA\bin\Debug\Asignment2_RSA.pdb
+D:\Nam\CSE306_Resource\lab6\Asignment2_RSA\Asignment2_RSA\obj\Debug\Asignment2_RSA.csproj.AssemblyReference.cache
+D:\Nam\CSE306_Resource\lab6\Asignment2_RSA\Asignment2_RSA\obj\Debug\Asignment2_RSA.Form1.resources
+D:\Nam\CSE306_Resource\lab6\Asignment2_RSA\Asignment2_RSA\obj\Debug\Asignment2_RSA.Properties.Resources.resources
+D:\Nam\CSE306_Resource\lab6\Asignment2_RSA\Asignment2_RSA\obj\Debug\Asignment2_RSA.csproj.GenerateResource.cache
+D:\Nam\CSE306_Resource\lab6\Asignment2_RSA\Asignment2_RSA\obj\Debug\Asignment2_RSA.csproj.CoreCompileInputs.cache
+D:\Nam\CSE306_Resource\lab6\Asignment2_RSA\Asignment2_RSA\obj\Debug\Asignment2_RSA.exe
+D:\Nam\CSE306_Resource\lab6\Asignment2_RSA\Asignment2_RSA\obj\Debug\Asignment2_RSA.pdb

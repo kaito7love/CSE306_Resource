@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam\\CSE306_Resource\\lab7\\Assignment1_Compress_Images\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F670F71F-0CAE-4A0A-8B8D-921B56AB6632}|Assignment1_Compress_Images\\Assignment1_Compress_Images.csproj|d:\\nam\\cse306_resource\\lab7\\assignment1_compress_images\\assignment1_compress_images\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F670F71F-0CAE-4A0A-8B8D-921B56AB6632}|Assignment1_Compress_Images\\Assignment1_Compress_Images.csproj|solutionrelative:assignment1_compress_images\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F670F71F-0CAE-4A0A-8B8D-921B56AB6632}|Assignment1_Compress_Images\\Assignment1_Compress_Images.csproj|d:\\nam\\cse306_resource\\lab7\\assignment1_compress_images\\assignment1_compress_images\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F670F71F-0CAE-4A0A-8B8D-921B56AB6632}|Assignment1_Compress_Images\\Assignment1_Compress_Images.csproj|solutionrelative:assignment1_compress_images\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F670F71F-0CAE-4A0A-8B8D-921B56AB6632}|Assignment1_Compress_Images\\Assignment1_Compress_Images.csproj|d:\\nam\\cse306_resource\\lab7\\assignment1_compress_images\\assignment1_compress_images\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F670F71F-0CAE-4A0A-8B8D-921B56AB6632}|Assignment1_Compress_Images\\Assignment1_Compress_Images.csproj|solutionrelative:assignment1_compress_images\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Nam\\CSE306_Resource\\lab7\\Assignment1_Compress_Images\\Assignment1_Compress_Images\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Assignment1_Compress_Images\\Form1.Designer.cs",
+              "ToolTip": "D:\\Nam\\CSE306_Resource\\lab7\\Assignment1_Compress_Images\\Assignment1_Compress_Images\\Form1.Designer.cs",
+              "RelativeToolTip": "Assignment1_Compress_Images\\Form1.Designer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwEUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:04:57.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Nam\\CSE306_Resource\\lab7\\Assignment1_Compress_Images\\Assignment1_Compress_Images\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment1_Compress_Images\\Form1.cs",
+              "ToolTip": "D:\\Nam\\CSE306_Resource\\lab7\\Assignment1_Compress_Images\\Assignment1_Compress_Images\\Form1.cs",
+              "RelativeToolTip": "Assignment1_Compress_Images\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:51:32.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Nam\\CSE306_Resource\\lab7\\Assignment1_Compress_Images\\Assignment1_Compress_Images\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment1_Compress_Images\\Form1.cs",
+              "ToolTip": "D:\\Nam\\CSE306_Resource\\lab7\\Assignment1_Compress_Images\\Assignment1_Compress_Images\\Form1.cs [Design]",
+              "RelativeToolTip": "Assignment1_Compress_Images\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:45:54.877Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\Nam\CSE306_Resource\lab7\Assignment1_Compress_Images\Assignment1_Compress_Images\bin\Debug\Assignment1_Compress_Images.exe.config
+D:\Nam\CSE306_Resource\lab7\Assignment1_Compress_Images\Assignment1_Compress_Images\bin\Debug\Assignment1_Compress_Images.exe
+D:\Nam\CSE306_Resource\lab7\Assignment1_Compress_Images\Assignment1_Compress_Images\bin\Debug\Assignment1_Compress_Images.pdb
+D:\Nam\CSE306_Resource\lab7\Assignment1_Compress_Images\Assignment1_Compress_Images\obj\Debug\Assignment1_Compress_Images.csproj.AssemblyReference.cache
+D:\Nam\CSE306_Resource\lab7\Assignment1_Compress_Images\Assignment1_Compress_Images\obj\Debug\Assignment1_Compress_Images.Form1.resources
+D:\Nam\CSE306_Resource\lab7\Assignment1_Compress_Images\Assignment1_Compress_Images\obj\Debug\Assignment1_Compress_Images.Properties.Resources.resources
+D:\Nam\CSE306_Resource\lab7\Assignment1_Compress_Images\Assignment1_Compress_Images\obj\Debug\Assignment1_Compress_Images.csproj.GenerateResource.cache
+D:\Nam\CSE306_Resource\lab7\Assignment1_Compress_Images\Assignment1_Compress_Images\obj\Debug\Assignment1_Compress_Images.csproj.CoreCompileInputs.cache
+D:\Nam\CSE306_Resource\lab7\Assignment1_Compress_Images\Assignment1_Compress_Images\obj\Debug\Assignment1_Compress_Images.exe
+D:\Nam\CSE306_Resource\lab7\Assignment1_Compress_Images\Assignment1_Compress_Images\obj\Debug\Assignment1_Compress_Images.pdb

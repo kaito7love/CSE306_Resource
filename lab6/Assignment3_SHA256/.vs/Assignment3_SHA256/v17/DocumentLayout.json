@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Nam\\CSE306_Resource\\lab6\\Assignment3_SHA256\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBD797C6-B38F-4F52-8B24-8235AD5D6956}|Assignment3_SHA256\\Assignment3_SHA256.csproj|D:\\Nam\\CSE306_Resource\\lab6\\Assignment3_SHA256\\assignment3_sha256\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBD797C6-B38F-4F52-8B24-8235AD5D6956}|Assignment3_SHA256\\Assignment3_SHA256.csproj|d:\\nam\\cse306_resource\\lab6\\assignment3_sha256\\assignment3_sha256\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBD797C6-B38F-4F52-8B24-8235AD5D6956}|Assignment3_SHA256\\Assignment3_SHA256.csproj|solutionrelative:assignment3_sha256\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBD797C6-B38F-4F52-8B24-8235AD5D6956}|Assignment3_SHA256\\Assignment3_SHA256.csproj|d:\\nam\\cse306_resource\\lab6\\assignment3_sha256\\assignment3_sha256\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FBD797C6-B38F-4F52-8B24-8235AD5D6956}|Assignment3_SHA256\\Assignment3_SHA256.csproj|D:\\Nam\\CSE306_Resource\\lab6\\Assignment3_SHA256\\assignment3_sha256\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FBD797C6-B38F-4F52-8B24-8235AD5D6956}|Assignment3_SHA256\\Assignment3_SHA256.csproj|solutionrelative:assignment3_sha256\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Assignment3_SHA256\\Form1.cs",
               "ToolTip": "D:\\Nam\\CSE306_Resource\\lab6\\Assignment3_SHA256\\Assignment3_SHA256\\Form1.cs",
               "RelativeToolTip": "Assignment3_SHA256\\Form1.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwDIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T07:00:19.92Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "D:\\Nam\\CSE306_Resource\\lab6\\Assignment3_SHA256\\Assignment3_SHA256\\Form1.cs [Design]",
               "RelativeToolTip": "Assignment3_SHA256\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T06:55:25.295Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-18T06:55:25.295Z"
             }
           ]
         }

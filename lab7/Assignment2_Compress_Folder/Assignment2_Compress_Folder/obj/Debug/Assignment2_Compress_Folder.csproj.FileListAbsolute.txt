@@ -1,0 +1,10 @@
+D:\Nam\CSE306_Resource\lab7\Assignment2_Compress_Folder\Assignment2_Compress_Folder\bin\Debug\Assignment2_Compress_Folder.exe.config
+D:\Nam\CSE306_Resource\lab7\Assignment2_Compress_Folder\Assignment2_Compress_Folder\bin\Debug\Assignment2_Compress_Folder.exe
+D:\Nam\CSE306_Resource\lab7\Assignment2_Compress_Folder\Assignment2_Compress_Folder\bin\Debug\Assignment2_Compress_Folder.pdb
+D:\Nam\CSE306_Resource\lab7\Assignment2_Compress_Folder\Assignment2_Compress_Folder\obj\Debug\Assignment2_Compress_Folder.csproj.AssemblyReference.cache
+D:\Nam\CSE306_Resource\lab7\Assignment2_Compress_Folder\Assignment2_Compress_Folder\obj\Debug\Assignment2_Compress_Folder.Form1.resources
+D:\Nam\CSE306_Resource\lab7\Assignment2_Compress_Folder\Assignment2_Compress_Folder\obj\Debug\Assignment2_Compress_Folder.Properties.Resources.resources
+D:\Nam\CSE306_Resource\lab7\Assignment2_Compress_Folder\Assignment2_Compress_Folder\obj\Debug\Assignment2_Compress_Folder.csproj.GenerateResource.cache
+D:\Nam\CSE306_Resource\lab7\Assignment2_Compress_Folder\Assignment2_Compress_Folder\obj\Debug\Assignment2_Compress_Folder.csproj.CoreCompileInputs.cache
+D:\Nam\CSE306_Resource\lab7\Assignment2_Compress_Folder\Assignment2_Compress_Folder\obj\Debug\Assignment2_Compress_Folder.exe
+D:\Nam\CSE306_Resource\lab7\Assignment2_Compress_Folder\Assignment2_Compress_Folder\obj\Debug\Assignment2_Compress_Folder.pdb
